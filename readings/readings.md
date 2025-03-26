@@ -6,6 +6,8 @@
 
 [Variational Inference: Bayesian Neural Networks](https://twiecki.io/blog/2016/06/01/bayesian-deep-learning)
 
+[Conditional independence](https://en.wikipedia.org/wiki/Conditional_independence)
+
 ### Books
 
 Michael I. Jordan - An Introduction to Probabilistic Graphical Models
