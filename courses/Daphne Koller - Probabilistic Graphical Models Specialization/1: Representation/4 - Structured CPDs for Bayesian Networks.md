@@ -127,5 +127,31 @@ PGM的视角看 LR，so cool!
 ![alt text](assets/media/4/4-3-5.png)
 ![alt text](assets/media/4/4-3-6.png) 
 ![alt text](assets/media/4/4-3-7.png)
- 
-![alt text](assets/media/4/4-3-5.png)
+![alt text](assets/media/4/4-3-9.jpeg)
+
+![alt text](assets/media/4/4-3-8.png)
+
+---
+
+## Continuous Variables
+
+### Continuous Variables
+
+Linear Gaussian & Conditional Gaussian
+
+![alt text](assets/media/4/4-4-1.png)
+
+![alt text](assets/media/4/4-4-2.png)
+
+### Robot Localization
+
+![alt text](assets/media/4/4-4-4.png)
+
+### Nonlinear Gaussian
+
+![alt text](assets/media/4/4-4-5.png)
+
+### Robot Motion Model
+
+![alt text](assets/media/4/4-4-6.png)
+
